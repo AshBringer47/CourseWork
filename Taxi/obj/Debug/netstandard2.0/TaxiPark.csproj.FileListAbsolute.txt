@@ -1,0 +1,10 @@
+D:\files\University\OOP\TaxiPark\Taxi\bin\Debug\netstandard2.0\TaxiPark.deps.json
+D:\files\University\OOP\TaxiPark\Taxi\bin\Debug\netstandard2.0\TaxiPark.dll
+D:\files\University\OOP\TaxiPark\Taxi\bin\Debug\netstandard2.0\TaxiPark.pdb
+D:\files\University\OOP\TaxiPark\Taxi\obj\Debug\netstandard2.0\TaxiPark.AssemblyInfoInputs.cache
+D:\files\University\OOP\TaxiPark\Taxi\obj\Debug\netstandard2.0\TaxiPark.AssemblyInfo.cs
+D:\files\University\OOP\TaxiPark\Taxi\obj\Debug\netstandard2.0\TaxiPark.dll
+D:\files\University\OOP\TaxiPark\Taxi\obj\Debug\netstandard2.0\TaxiPark.pdb
+D:\files\University\OOP\TaxiPark\Taxi\bin\Debug\netstandard2.0\Exceptions.dll
+D:\files\University\OOP\TaxiPark\Taxi\bin\Debug\netstandard2.0\Exceptions.pdb
+D:\files\University\OOP\TaxiPark\Taxi\obj\Debug\netstandard2.0\TaxiPark.csproj.CopyComplete

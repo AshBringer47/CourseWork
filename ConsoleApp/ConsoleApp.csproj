@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Exceptions">
+      <HintPath>..\Exceptions\bin\Debug\Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="TaxiStation">
+      <HintPath>..\Taxi\bin\Debug\netstandard2.0\TaxiStation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

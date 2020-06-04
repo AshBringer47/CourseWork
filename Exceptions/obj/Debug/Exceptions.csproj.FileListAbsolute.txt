@@ -1,0 +1,5 @@
+D:\files\University\OOP\TaxiPark\Exceptions\bin\Debug\Exceptions.dll
+D:\files\University\OOP\TaxiPark\Exceptions\bin\Debug\Exceptions.pdb
+D:\files\University\OOP\TaxiPark\Exceptions\obj\Debug\Exceptions.dll
+D:\files\University\OOP\TaxiPark\Exceptions\obj\Debug\Exceptions.pdb
+D:\files\University\OOP\TaxiPark\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache

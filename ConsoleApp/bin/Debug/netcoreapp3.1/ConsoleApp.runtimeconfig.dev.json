@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mrexa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mrexa\\.nuget\\packages"
+    ]
+  }
+}
